@@ -1,0 +1,11 @@
+2021-10-13 09:22:36.525 debug 11672 --- [main] com.ringo.App                            : Starting App on USER-20190812XN with PID 11672 (D:\project\springboot01\target\classes started by Administrator in D:\project\springboot01)
+2021-10-13 09:22:36.541 debug 11672 --- [main] com.ringo.App                            : The following profiles are active: dev
+2021-10-13 09:22:41.520 debug 11672 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9887 (http)
+2021-10-13 09:22:41.543 debug 11672 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-10-13 09:22:41.543 debug 11672 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2021-10-13 09:22:41.903 debug 11672 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-13 09:22:41.903 debug 11672 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4997 ms
+2021-10-13 09:22:42.589 debug 11672 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-13 09:22:43.302 debug 11672 --- [main] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2021-10-13 09:22:43.471 debug 11672 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9887 (http) with context path ''
+2021-10-13 09:22:43.517 debug 11672 --- [main] com.ringo.App                            : Started App in 9.984 seconds (JVM running for 16.44)
